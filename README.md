@@ -15,8 +15,6 @@ https://www.dietdoctor.com/low-carb/keto/recipes/all
 
 #### The Recipe Template:
 
-{"Breakfast : [
-
     {
       "Nutrition": {
             "Protein": "7 g", 
@@ -63,6 +61,3 @@ https://www.dietdoctor.com/low-carb/keto/recipes/all
         ]
       }, 
   ... 
-  
-    ] 
-  }
