@@ -14,7 +14,8 @@ https://www.dietdoctor.com/low-carb/keto/recipes/all
 `scrapy crawl fbfs`
 
 #### The Recipe Template:
-`
+
+{"Breakfast : [
 {
   "Nutrition": {
         "Protein": "7 g", 
@@ -59,5 +60,6 @@ https://www.dietdoctor.com/low-carb/keto/recipes/all
           "Ingredient": "sesame seeds (optional)"
         }
     ]
+  }, 
+  ... ] 
   }
-  `
