@@ -1,6 +1,6 @@
 # Dietdoctor-Scraper
 
-collects all the Recipes(Nutrition, Instructions, Recipe and Ingredients) from the dietdoctor.com and exports the result as a json file.
+collects all the Recipes(Nutritions, Instructions, Recipes and Ingredients) from dietdoctor.com and exports the result as a json file.
 https://www.dietdoctor.com/low-carb/keto/recipes/all
 
 ## How to install
