@@ -13,8 +13,8 @@ https://www.dietdoctor.com/low-carb/keto/recipes/all
 
 `scrapy crawl fbfs`
 
-### recipe template:
-
+#### The Recipe Template:
+`
 {
   "Nutrition": {
         "Protein": "7 g", 
@@ -60,3 +60,4 @@ https://www.dietdoctor.com/low-carb/keto/recipes/all
         }
     ]
   }
+  `
